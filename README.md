@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**shouheitakai9009/shouheitakai9009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working at the public company provides B2B SaaS as a freelancer
+- 🌱 I'm focused learning English and develop full-stack frontend
+- 😄 When realized my repositories bug, please create an issue.
 
-Here are some ideas to get you started:
+## Recent News 📰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Published Modern SPA Boilerplate
+- 👍 I've finally published the new repository "modern-spa-boilerplate"
+- 🎶 This boilerplate offers rapid UI construction, easy setup, and high extensibility.
+- 📂 It supports a monorepo approach for seamless full-stack development
+- ❤️ I appreciate your contribution
